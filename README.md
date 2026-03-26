@@ -18,4 +18,4 @@ Currently working on a **CLI Task Manager**.
 
 ## Connect
 - 📫 Email: agbejule.dev@gmail.com
-- 💼 LinkedIn: [Your LinkedIn URL](https://linkedin.com/in/oluwatobiloba-agbejule-462237253)
+- 💼 LinkedIn: (https://linkedin.com/in/oluwatobiloba-agbejule-462237253)
