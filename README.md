@@ -15,6 +15,8 @@ Currently working on a **CLI Task Manager**.
 - [Samsung Landing Page](https://github.com/agbejuledev-dev/Samsung-landing-page-)
 - [Hotel Website]( https://agbejuledev-dev.github.io/Hotel-pages/)
 - [TODO Advanced app](https://agbejuledev-dev.github.io/Taskflow---Advanced-Todo-App/)
+- [PassForge](https://agbejuledev-dev.github.io/PassForge/)
+- [MindSprint](https://agbejuledev-dev.github.io/MindSprint/)
 
 ## Connect
 - 📫 Email: agbejule.dev@gmail.com
